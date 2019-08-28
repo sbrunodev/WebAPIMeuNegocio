@@ -1,0 +1,14 @@
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\bin\Debug\netcoreapp2.2\WebAPIMeuNegocio.deps.json
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\bin\Debug\netcoreapp2.2\WebAPIMeuNegocio.runtimeconfig.json
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\bin\Debug\netcoreapp2.2\WebAPIMeuNegocio.runtimeconfig.dev.json
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\bin\Debug\netcoreapp2.2\WebAPIMeuNegocio.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\bin\Debug\netcoreapp2.2\WebAPIMeuNegocio.pdb
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.RazorAssemblyInfo.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.RazorAssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.AssemblyInfo.cs
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.RazorTargetAssemblyInfo.cache
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.dll
+C:\Users\bruno\Desktop\Programacao e Projetos\DOTNETCore\WebAPIMeuNegocio\WebAPIMeuNegocio\obj\Debug\netcoreapp2.2\WebAPIMeuNegocio.pdb
